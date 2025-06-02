@@ -8,7 +8,6 @@
 ```
 
 ## Pre-process
-1. Download metric package from [here](https://drive.google.com/file/d/1OcOwa73e0u1GggrrgDMaAXt9IOaLTYrs/view?usp=sharing) and unzip it into MedVQA folder.
 2. Download Swin Transformer and bert pretrained models from huggingface model hub: https://huggingface.co/models
 
    
